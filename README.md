@@ -1,4 +1,4 @@
-# Shape Shifters Geometry Lab
+# Maths Made Fun
 
 A modern web application for exploring and learning geometry concepts through interactive visualizations and experiments.
 
@@ -73,19 +73,7 @@ shape-shifters-geometry-lab/
 - Form validation with Zod
 - Smooth animations with Framer Motion
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Authors
 
-- [Your Name/Team Name]
+- Tanishq Chauhan
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors and supporters of this project
-- Special thanks to the open-source community for the amazing tools and libraries 
